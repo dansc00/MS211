@@ -1,1 +1,1 @@
-# Repositório da disciplina de C
+Repositório da disciplina de Cálculo Numérico
